@@ -84,7 +84,7 @@
     return-object v0
 
     :uid_user7
-    const-string v0, "UID-USER7"
+    const-string v0, "JANCOK"
     return-object v0
 
     :uid_user8
