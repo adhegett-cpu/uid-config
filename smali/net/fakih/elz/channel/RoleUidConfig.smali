@@ -60,7 +60,7 @@
     goto :ret_null
 
     :uid_user1
-    const-string v0, "UID-USER1"
+    const-string v0, "TEST"
     return-object v0
 
     :uid_user2
